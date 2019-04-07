@@ -45,7 +45,7 @@
 
 # Useful links
 
-[ToDo MVC App Spec] (https://github.com/tastejs/todomvc/blob/master/app-spec.md)
+* [todoMVC App Spec](https://github.com/tastejs/todomvc/blob/master/app-spec.md)
 
 # Notes
 
