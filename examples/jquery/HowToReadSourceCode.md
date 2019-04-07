@@ -18,6 +18,8 @@
 
 ## The process
 
+* See [todoMVC App Spec](https://github.com/tastejs/todomvc/blob/master/app-spec.md) for a great place to start reviewing things like file structure and how the code is supposed to work.
+
 * Look at the file structure.
 * Get a sense for the vocabulary.
 * Keep a note of unfamiliar concepts that you'll need to research later.
@@ -43,17 +45,13 @@
 * localStorage.
 * JSON.
 
-# Useful links
-
-* [todoMVC App Spec](https://github.com/tastejs/todomvc/blob/master/app-spec.md)
-
 # Notes
 
 * Go through the debugger on .getActiveTodos and .destroyCompleted.
 * See what this is without using bind.
 * Talk about method chaining.
 
-# READ THROUGH NOTES
+# My read through notes
 
 ## destroy method
 The splice() method changes the contents of an array by removing existing elements and/or adding new elements.
